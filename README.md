@@ -7,7 +7,7 @@ I build practical mobile and web apps with React Native, Expo, TypeScript, Swift
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zakharshylov.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://zakharshylov.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ZakharShylov-181717?style=for-the-badge&logo=github)](https://github.com/ZakharShylov)
-[![App Store](https://img.shields.io/badge/App%20Store-Published%20Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](#featured-projects)
+[![App Store](https://img.shields.io/badge/App%20Store-Published%20Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/zakhar-shylov/id1881115151)
 
 </div>
 
@@ -70,4 +70,3 @@ I build practical mobile and web apps with React Native, Expo, TypeScript, Swift
 
 - Portfolio: [zakharshylov.com](https://zakharshylov.com)
 - GitHub: [github.com/ZakharShylov](https://github.com/ZakharShylov)
-
