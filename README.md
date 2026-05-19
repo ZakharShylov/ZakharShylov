@@ -56,16 +56,6 @@ I build practical mobile and web apps with React Native, Expo, TypeScript, Swift
 - Building small products that solve real daily problems
 - Growing as a mobile and full-stack developer
 
-## GitHub Stats
-
-<div align="center">
-
-![Zakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakharShylov&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakharShylov&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## Contact
 
 - Portfolio: [zakharshylov.com](https://zakharshylov.com)
